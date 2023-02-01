@@ -1,1 +1,1 @@
-Proyev  de curriculum vitae para TICMAS de alumna Gisella Parra.
+Proyecto  de curriculum vitae para TICMAS de alumna Gisella Parra.
